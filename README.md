@@ -1,6 +1,7 @@
 # Robothing-Code-Station
 
 Hello. 
+
 This is the github repository that will be storing the foundational code for the RescueBot Robot Operating System. 
 If you are reading this, you have been assigned to work in what is arguably the most important yet mentally demanding field of the RescueBot team. Truly, access is granted to only the most valiant minds society can offer, hardened through the years behing the walls of SFU prison. 
 
